@@ -1,0 +1,254 @@
+
+[
+    {
+        "id": "expreso",
+        "titulo": "Expreso",
+       "imagen": "./img/expreso.jpg",
+        "categoria": {
+            "nombre": "Cafes e infusiones",
+            "id": "cafes e infusiones"
+
+        },
+        "precio": 1
+    },
+    {
+        "id": "cafe con leche",
+        "titulo": "Cafe con leche",
+        "imagen": "./img/cafeconleche.jpg",
+        "categoria": {
+            "nombre": "Cafes e infusiones",
+            "id": "cafes e infusiones"
+        },
+        "precio": 1.5
+    },
+    {
+        "id": "capuchino",
+        "titulo": "Capuchino",
+        "imagen": "./img/capuchino.jpg",
+        "categoria": {
+            "nombre": "Cafes e infusiones",
+            "id": "cafes e infusiones"
+        },
+        "precio": 2
+    },
+    {
+        "id": "galao",
+        "titulo": "Galao",
+        "imagen": "./img/galao.jpg",
+        "categoria": {
+            "nombre": "Cafes e infusiones",
+            "id": "cafes e infusiones"
+        },
+        "precio": 2
+    },
+    {
+        "id": "latte machiato",
+        "titulo": "Latte machiato",
+        "imagen": "./img/lattemachiato.jpg",
+        "categoria": {
+            "nombre": "Cafes e infusiones",
+            "id": "cafes e infusiones"
+        },
+        "precio": 2.5
+    },
+    {
+        "id": "submarino",
+        "titulo": "Submarino",
+        "imagen": "./img/submarino.jpg",
+        "categoria": {
+            "nombre": "Cafes e infusiones",
+            "id": "cafes e infusiones"
+        },
+        "precio": 2.5
+    },
+    {
+        "id": "te negro",
+        "titulo": "Te negro",
+        "imagen": "./img/tenegro.jpg",
+        "categoria": {
+            "nombre": "Cafes e infusiones",
+            "id": "cafes e infusiones"
+        },
+        "precio": 1.5
+    },
+    {
+        "id": "cafe take away",
+        "titulo": "Cafe take away",
+        "imagen": "./img/cafetakeaway.jpg",
+        "categoria": {
+            "nombre": "Cafes e infusiones",
+            "id": "cafes e infusiones"
+        },
+        "precio": 3
+    },
+    {
+        "id": "criollo hojaldre",
+        "titulo": "Criollo hojaldre",
+        "imagen": "./img/criollohojaldre.jpg",
+        "categoria": {
+            "nombre": "Panaderia",
+            "id": "panaderia"
+        },
+        "precio": 1
+    },
+    {
+        "id": "criollo manteca",
+        "titulo": "Criollo manteca",
+        "imagen": "./img/criollomanteca.jpg",
+        "categoria": {
+            "nombre": "Panaderia",
+            "id": "panaderia"
+        },
+        "precio": 1
+    },
+    {
+        "id": "tostado jamon y queso",
+        "titulo": "Tostado jamon y queso",
+        "imagen": "./img/criolloconchicharron.jpg",
+        "categoria": {
+            "nombre": "Panaderia",
+            "id": "panaderia"
+        },
+        "precio": 1.5
+    },
+    {
+        "id": "chipaca",
+        "titulo": "Chipaca",
+        "imagen": "./img/chipaca.jpg",
+        "categoria": {
+            "nombre": "Panaderia",
+            "id": "panaderia"
+        },
+        "precio": 1.5
+    },
+    {
+        "id": "factura con crema",
+        "titulo": "Factura con crema",
+        "imagen": "./img/facturaconcrema.jpg",
+        "categoria": {
+            "nombre": "Panaderia",
+            "id": "panaderia"
+        },
+        "precio": 1.5
+    },
+    {
+        "id": "vigilante",
+        "titulo": "Vigilante",
+        "imagen": "./img/vigilante.jpg",
+        "categoria": {
+            "nombre": "Panaderia",
+            "id": "panaderia"
+        },
+        "precio": 1.5
+    },
+    {
+        "id": "medialuna",
+        "titulo": "Medialuna",
+        "imagen": "./img/medialuna.jpg",
+        "categoria": {
+            "nombre": "Panaderia",
+            "id": "panaderia"
+        },
+        "precio": 1.5
+    },
+    {
+        "id": "Tostado jamon y queso",
+        "titulo": "Tostado jamon y queso",
+        "imagen": "./img/tostadojamonyqueso.jpg",
+        "categoria": {
+            "nombre": "Panaderia",
+            "id": "panaderia"
+        },
+        "precio": 2
+    },
+    {
+        "id": "Tostado salame y queso",
+        "titulo": "Tostado salame y queso",
+        "imagen": "./img/tostadosalameyqueso.jpg",
+        "categoria": {
+            "nombre": "Panaderia",
+            "id": "panaderia"
+        },
+        "precio": 2
+    },
+    {
+        "id": "agua",
+        "titulo": "Agua",
+        "imagen": "./img/agua.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "bebidas"
+        },
+        "precio": 1.5
+    },
+    {
+        "id": "agua con gas",
+        "titulo": "Agua con gas",
+        "imagen": "./img/aguacongas.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "bebidas"
+        },
+        "precio": 1.5
+    },
+    {
+        "id": "coca cola",
+        "titulo": "Coca cola",
+        "imagen": "./img/cocacola.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "bebidas"
+        },
+        "precio": 2.5
+    },
+    {
+        "id": "coca cola light",
+        "titulo": "Coca cola light",
+        "imagen": "./img/cocacolalight.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "bebidas"
+        },
+        "precio": 2.5
+    },
+    {
+        "id": "sprite",
+        "titulo": "Sprite",
+        "imagen": "./img/sprite.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "bebidas"
+        },
+        "precio": 2.5
+    },
+    {
+        "id": "schweppes",
+        "titulo": "Schweppes",
+        "imagen": "./img/schweppes.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "bebidas"
+        },
+        "precio": 2.5
+    },
+    {
+        "id": "jugo de naranja",
+        "titulo": "Jugo de naranja",
+        "imagen": "./img/jugodenaranja.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "bebidas"
+        },
+        "precio": 2
+    },
+    {
+        "id": "red bull",
+        "titulo": "Red bull",
+        "imagen": "./img/redbull.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "bebidas"
+        },
+        "precio": 3
+    }
+]
